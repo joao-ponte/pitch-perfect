@@ -62,15 +62,39 @@
 			children = (
 				FC6BEE4E29CF173300EBD346 /* AppDelegate.swift */,
 				FC6BEE5029CF173300EBD346 /* SceneDelegate.swift */,
-				FC6BEE5229CF173300EBD346 /* RecordSoundsViewController.swift */,
-				FC6BEE6229D05F9F00EBD346 /* PlaySoundsViewController.swift */,
-				FC6BEE6429D1B97C00EBD346 /* playsoundsviewcontroller+audio.swift */,
-				FC6BEE5429CF173300EBD346 /* Main.storyboard */,
+				FC879A0229D2ECDB002F53D9 /* Model */,
+				FC879A0129D2EB88002F53D9 /* View */,
+				FC879A0329D2ECE8002F53D9 /* Controller */,
 				FC6BEE5729CF173500EBD346 /* Assets.xcassets */,
 				FC6BEE5929CF173500EBD346 /* LaunchScreen.storyboard */,
 				FC6BEE5C29CF173500EBD346 /* Info.plist */,
 			);
 			path = PitchPerfect;
+			sourceTree = "<group>";
+		};
+		FC879A0129D2EB88002F53D9 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				FC6BEE5429CF173300EBD346 /* Main.storyboard */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		FC879A0229D2ECDB002F53D9 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		FC879A0329D2ECE8002F53D9 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				FC6BEE6429D1B97C00EBD346 /* playsoundsviewcontroller+audio.swift */,
+				FC6BEE6229D05F9F00EBD346 /* PlaySoundsViewController.swift */,
+				FC6BEE5229CF173300EBD346 /* RecordSoundsViewController.swift */,
+			);
+			path = Controller;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
