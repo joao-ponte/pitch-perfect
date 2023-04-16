@@ -37,6 +37,9 @@ The Pitch Perfect App includes the following features:
 - Choose the recorded voice's rate, pitch, echo, and reverb effects.
 - Play the modified recording to listen to the effects in real-time.
 
+## Screenshots
+
+<img src="https://github.com/joao-ponte/pitch-perfect/blob/main/Screenshot/pitchPerfectrecordScreen.jpeg?raw=true" height="500" width="250">    <img src="https://github.com/joao-ponte/pitch-perfect/blob/main/Screenshot/PitchPerfectAudioScreen.jpeg?raw=true"  height="500" width="250">
 
 ## Technologies Used
 The Pitch Perfect App was built using the following technologies and tools:
@@ -44,9 +47,7 @@ The Pitch Perfect App was built using the following technologies and tools:
 - AVFoundation: The framework used to record and modify audio.
 - UIKit: The framework used to build the user interface.
 - Xcode: The integrated development environment (IDE) used to develop the app.
-## Screenshots
 
-<img src="https://github.com/joao-ponte/pitch-perfect/blob/main/Screenshot/pitchPerfectrecordScreen.jpeg?raw=true" height="500" width="250">    <img src="https://github.com/joao-ponte/pitch-perfect/blob/main/Screenshot/PitchPerfectAudioScreen.jpeg?raw=true"  height="500" width="250">
 
 ## Author
 [Joao Ponte](https://github.com/joao-ponte)
