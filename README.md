@@ -1,9 +1,8 @@
 # pitch-perfect
-I AM YOUR FATHER! Do you want to have some fun with your friends? Check out this app that changes the voices. 
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Pitch-Perfect</title>
+    <title>Voice Recorder App</title>
 </head>
 <body>
     <h1>Voice Recorder App</h1>
@@ -26,6 +25,7 @@ I AM YOUR FATHER! Do you want to have some fun with your friends? Check out this
         <li>Tap the "Stop" button to stop recording.</li>
         <li>Use the sliders to adjust the rate, pitch, echo, and reverb effects.</li>
         <li>Tap the "Play" button to listen to the modified recording.</li>
+        <li>Tap the "Save" button to save the modified recording to your device.</li>
     </ol>
     <p>Note: The app requires access to the microphone to record voice, so make sure to grant the necessary permission when prompted.</p>
 
@@ -35,6 +35,7 @@ I AM YOUR FATHER! Do you want to have some fun with your friends? Check out this
         <li>Record voice using the device's microphone.</li>
         <li>Adjust the rate, pitch, echo, and reverb effects of the recorded voice.</li>
         <li>Play the modified recording to listen to the effects in real-time.</li>
+        <li>Save the modified recording to the device's local storage.</li>
     </ul>
 
     <h2>Technologies Used</h2>
@@ -47,3 +48,4 @@ I AM YOUR FATHER! Do you want to have some fun with your friends? Check out this
     </ul>
 </body>
 </html>
+
