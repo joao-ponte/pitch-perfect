@@ -29,6 +29,7 @@ The Voice Recorder App provides a simple and intuitive user interface for record
 - Tap the "Record" button to start recording your voice.
 - Tap the "Stop" button to stop recording.
 - Tap one of the 6 buttons to listen to the modified recording.
+
 Note: The app requires access to the microphone to record voice, so make sure to grant the necessary permission when prompted.
 ## Features
 The Pitch Perfect App includes the following features:
